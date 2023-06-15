@@ -7,9 +7,10 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on OOPS
 - 📫 Connect with me :
- <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://github.com/aasthacb/aasthacb/assets/96124871/3655f757-ef22-4102-8f45-c827ebc8a9e5"/>
+ <a href="https://www.linkedin.com/in/aasthach/">
+  <img height="40" src="https://github.com/aasthacb/aasthacb/assets/96124871/3655f757-ef22-4102-8f45-c827ebc8a9e5"/>
 </a>
+
 - 
 
 <!--
